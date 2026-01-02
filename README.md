@@ -1099,7 +1099,7 @@ G9LUNsQfMgcRqWS2X9mcNf4kNhRWoxcZZri3p2ay7Yaf
 
 <br>
 
-<a href="https://raw.githubusercontent.com/Siddheshwar-cloud/ERC20MintBurn/main/assets/upi-qr.png">
+<a href="https://raw.githubusercontent.com/Siddheshwar-cloud/ERC20MintBurn/main/assets/blob:https://web.whatsapp.com/b54861f6-ed81-44d9-a1fb-6592696f169e">
   <img src="https://raw.githubusercontent.com/Siddheshwar-cloud/ERC20MintBurn/main/assets/upi-qr.png" width="200" alt="UPI QR Code"/>
 </a>
 
@@ -1187,7 +1187,7 @@ Copyright (c) 2024 Sidheshwar Yengudle
   
   <br><br>
   
-  Made with ❤️ and ☕ by Sidheshwar Yengudle © 2024
+  Made with ❤️ and ☕ by Sidheshwar Yengudle © 2026
   
   <br><br>
   
@@ -1196,3 +1196,4 @@ Copyright (c) 2024 Sidheshwar Yengudle
   </a>
   
 </div>
+
