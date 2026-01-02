@@ -1095,20 +1095,6 @@ G9LUNsQfMgcRqWS2X9mcNf4kNhRWoxcZZri3p2ay7Yaf
 
 <br><br>
 
-**Or scan the QR code:**
-
-<br>
-
-<a href="https://raw.githubusercontent.com/Siddheshwar-cloud/ERC20MintBurn/main/assets/blob:https://web.whatsapp.com/b54861f6-ed81-44d9-a1fb-6592696f169e">
-  <img src="https://raw.githubusercontent.com/Siddheshwar-cloud/ERC20MintBurn/main/assets/upi-qr.png" width="200" alt="UPI QR Code"/>
-</a>
-
-<br>
-
-<sub>Click on QR code to view full size</sub>
-
-<br><br>
-
 ### Why Support?
 
 <table>
@@ -1187,7 +1173,7 @@ Copyright (c) 2024 Sidheshwar Yengudle
   
   <br><br>
   
-  Made with ❤️ and ☕ by Sidheshwar Yengudle © 2026
+  Made with ❤️ and ☕ by Sidheshwar Yengudle © 2024
   
   <br><br>
   
@@ -1196,4 +1182,3 @@ Copyright (c) 2024 Sidheshwar Yengudle
   </a>
   
 </div>
-
