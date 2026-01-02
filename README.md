@@ -1023,8 +1023,6 @@ A: No, burning is permanent.
 
 </div>
 
-<br>
-
 <div align="center">
 
 ### Skills & Expertise
@@ -1049,6 +1047,8 @@ A: No, burning is permanent.
 
 </div>
 
+<br>
+
 ### Repository Links
 
 <div align="center">
@@ -1057,6 +1057,72 @@ A: No, burning is permanent.
 [![Fork](https://img.shields.io/badge/Fork-Repository-green?style=for-the-badge&logo=github)](https://github.com/Siddheshwar-cloud/erc20-mintburn/fork)
 [![Issues](https://img.shields.io/badge/Report-Issues-red?style=for-the-badge&logo=github)](https://github.com/Siddheshwar-cloud/erc20-mintburn/issues)
 [![PRs](https://img.shields.io/badge/Submit-PR-orange?style=for-the-badge&logo=github)](https://github.com/Siddheshwar-cloud/erc20-mintburn/pulls)
+
+</div>
+
+---
+
+## Buy Me A Coffee
+
+<div align="center">
+
+If this project helped you or you learned something new, consider supporting my work!
+
+<br>
+
+### Crypto Donations (Preferred)
+
+**Ethereum / Polygon / BSC Address:**
+```
+0xYourWalletAddressHere
+```
+
+<a href="https://etherscan.io/address/0xYourWalletAddressHere">
+  <img src="https://img.shields.io/badge/Donate-Crypto-orange?style=for-the-badge&logo=ethereum" alt="Crypto Donation">
+</a>
+
+<br><br>
+
+### UPI Payment (India)
+
+**UPI ID:** `yourname@upi`
+
+<br>
+
+<img src="https://img.shields.io/badge/UPI-Payment-green?style=for-the-badge&logo=googlepay" alt="UPI">
+
+<br><br>
+
+**Or scan the QR code:**
+
+<img src="YOUR_UPI_QR_CODE_LINK" width="200" alt="UPI QR Code"/>
+
+<br><br>
+
+### Why Support?
+
+<table>
+  <tr>
+    <td align="center">☕</td>
+    <td><strong>Keeps me caffeinated</strong> for late-night coding sessions</td>
+  </tr>
+  <tr>
+    <td align="center">📚</td>
+    <td><strong>Motivates me</strong> to create more educational content</td>
+  </tr>
+  <tr>
+    <td align="center">🚀</td>
+    <td><strong>Supports</strong> open-source blockchain development</td>
+  </tr>
+  <tr>
+    <td align="center">💡</td>
+    <td><strong>Enables</strong> more innovative projects</td>
+  </tr>
+</table>
+
+<br>
+
+**Every contribution, no matter how small, is greatly appreciated!** 🙏
 
 </div>
 
@@ -1089,9 +1155,15 @@ Copyright (c) 2024 Sidheshwar Yengudle
   
   <br>
   
-  <img src="https://img.shields.io/badge/🪙-Mintable-4CAF50?style=for-the-badge" alt="Mintable">
-  <img src="https://img.shields.io/badge/🔥-Burnable-F44336?style=for-the-badge" alt="Burnable">
-  <img src="https://img.shields.io/badge/👑-Ownable-2196F3?style=for-the-badge" alt="Ownable">
+  <a href="https://github.com/Siddheshwar-cloud/erc20-mintburn#erc20-mintburn-token">
+    <img src="https://img.shields.io/badge/🪙-Mintable-4CAF50?style=for-the-badge" alt="Mintable">
+  </a>
+  <a href="https://github.com/Siddheshwar-cloud/erc20-mintburn#mint--burn-mechanism">
+    <img src="https://img.shields.io/badge/🔥-Burnable-F44336?style=for-the-badge" alt="Burnable">
+  </a>
+  <a href="https://github.com/Siddheshwar-cloud/erc20-mintburn#functions">
+    <img src="https://img.shields.io/badge/👑-Ownable-2196F3?style=for-the-badge" alt="Ownable">
+  </a>
   
   <br><br>
   
@@ -1099,7 +1171,7 @@ Copyright (c) 2024 Sidheshwar Yengudle
   
   <br>
   
-  <a href="https://github.com/Siddheshwar-cloud/erc20-mintburn">
+  <a href="https://github.com/Siddheshwar-cloud/erc20-mintburn#erc20-mintburn-token">
     <img src="https://img.shields.io/badge/⬆️_Back_to_Top-100000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
   </a>
   
