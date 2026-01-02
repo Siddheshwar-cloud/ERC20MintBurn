@@ -25,9 +25,9 @@
   
   <br><br>
   
-  <img src="https://img.shields.io/github/last-commit/Siddheshwar-cloud/erc20-mintburn?style=flat-square" alt="Last Commit">
-  <img src="https://img.shields.io/github/languages/code-size/Siddheshwar-cloud/erc20-mintburn?style=flat-square" alt="Code Size">
-  <img src="https://img.shields.io/github/languages/top/Siddheshwar-cloud/erc20-mintburn?style=flat-square" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/Siddheshwar-cloud/ERC20MintBurn?style=flat-square" alt="Last Commit">
+  <img src="https://img.shields.io/github/languages/code-size/Siddheshwar-cloud/ERC20MintBurn?style=flat-square" alt="Code Size">
+  <img src="https://img.shields.io/github/languages/top/Siddheshwar-cloud/ERC20MintBurn?style=flat-square" alt="Top Language">
 </div>
 
 ---
@@ -1037,9 +1037,9 @@ A: No, burning is permanent.
 
 <div align="center">
   
-[![GitHub Star](https://img.shields.io/github/stars/Siddheshwar-cloud/erc20-mintburn?style=social)](https://github.com/Siddheshwar-cloud/erc20-mintburn)
+[![GitHub Star](https://img.shields.io/github/stars/Siddheshwar-cloud/ERC20MintBurn?style=social)](https://github.com/Siddheshwar-cloud/ERC20MintBurn)
 
-<a href="https://github.com/Siddheshwar-cloud/erc20-mintburn/stargazers">
+<a href="https://github.com/Siddheshwar-cloud/ERC20MintBurn/stargazers">
   <img src="https://img.shields.io/badge/⭐_Star_This_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="Star">
 </a>
 
@@ -1053,10 +1053,10 @@ A: No, burning is permanent.
 
 <div align="center">
 
-[![View](https://img.shields.io/badge/View-Repository-black?style=for-the-badge&logo=github)](https://github.com/Siddheshwar-cloud/erc20-mintburn)
-[![Fork](https://img.shields.io/badge/Fork-Repository-green?style=for-the-badge&logo=github)](https://github.com/Siddheshwar-cloud/erc20-mintburn/fork)
-[![Issues](https://img.shields.io/badge/Report-Issues-red?style=for-the-badge&logo=github)](https://github.com/Siddheshwar-cloud/erc20-mintburn/issues)
-[![PRs](https://img.shields.io/badge/Submit-PR-orange?style=for-the-badge&logo=github)](https://github.com/Siddheshwar-cloud/erc20-mintburn/pulls)
+[![View](https://img.shields.io/badge/View-Repository-black?style=for-the-badge&logo=github)](https://github.com/Siddheshwar-cloud/ERC20MintBurn)
+[![Fork](https://img.shields.io/badge/Fork-Repository-green?style=for-the-badge&logo=github)](https://github.com/Siddheshwar-cloud/ERC20MintBurn/fork)
+[![Issues](https://img.shields.io/badge/Report-Issues-red?style=for-the-badge&logo=github)](https://github.com/Siddheshwar-cloud/ERC20MintBurn/issues)
+[![PRs](https://img.shields.io/badge/Submit-PR-orange?style=for-the-badge&logo=github)](https://github.com/Siddheshwar-cloud/ERC20MintBurn/pulls)
 
 </div>
 
@@ -1072,30 +1072,40 @@ If this project helped you or you learned something new, consider supporting my 
 
 ### Crypto Donations (Preferred)
 
-**Ethereum / Polygon / BSC Address:**
+**Solana Wallet Address:**
 ```
-0xYourWalletAddressHere
+G9LUNsQfMgcRqWS2X9mcNf4kNhRWoxcZZri3p2ay7Yaf
 ```
 
-<a href="https://etherscan.io/address/0xYourWalletAddressHere">
-  <img src="https://img.shields.io/badge/Donate-Crypto-orange?style=for-the-badge&logo=ethereum" alt="Crypto Donation">
+<a href="https://solscan.io/account/G9LUNsQfMgcRqWS2X9mcNf4kNhRWoxcZZri3p2ay7Yaf">
+  <img src="https://img.shields.io/badge/Donate-Crypto-orange?style=for-the-badge&logo=solana" alt="Crypto Donation">
 </a>
 
 <br><br>
 
 ### UPI Payment (India)
 
-**UPI ID:** `yourname@upi`
+**UPI ID:** `shidheshoryangudale-2@okicici`
 
 <br>
 
-<img src="https://img.shields.io/badge/UPI-Payment-green?style=for-the-badge&logo=googlepay" alt="UPI">
+<a href="upi://pay?pa=shidheshoryangudale-2@okicici&pn=Sidheshwar%20Yengudle&cu=INR">
+  <img src="https://img.shields.io/badge/Pay-via%20UPI-green?style=for-the-badge&logo=googlepay" alt="UPI Payment">
+</a>
 
 <br><br>
 
 **Or scan the QR code:**
 
-<img src="YOUR_UPI_QR_CODE_LINK" width="200" alt="UPI QR Code"/>
+<br>
+
+<a href="https://raw.githubusercontent.com/Siddheshwar-cloud/ERC20MintBurn/main/assets/upi-qr.png">
+  <img src="https://raw.githubusercontent.com/Siddheshwar-cloud/ERC20MintBurn/main/assets/upi-qr.png" width="200" alt="UPI QR Code"/>
+</a>
+
+<br>
+
+<sub>Click on QR code to view full size</sub>
 
 <br><br>
 
@@ -1155,13 +1165,13 @@ Copyright (c) 2024 Sidheshwar Yengudle
   
   <br>
   
-  <a href="https://github.com/Siddheshwar-cloud/erc20-mintburn#erc20-mintburn-token">
+  <a href="https://github.com/Siddheshwar-cloud/ERC20MintBurn#erc20-mintburn-token">
     <img src="https://img.shields.io/badge/🪙-Mintable-4CAF50?style=for-the-badge" alt="Mintable">
   </a>
-  <a href="https://github.com/Siddheshwar-cloud/erc20-mintburn#mint--burn-mechanism">
+  <a href="https://github.com/Siddheshwar-cloud/ERC20MintBurn#mint--burn-mechanism">
     <img src="https://img.shields.io/badge/🔥-Burnable-F44336?style=for-the-badge" alt="Burnable">
   </a>
-  <a href="https://github.com/Siddheshwar-cloud/erc20-mintburn#functions">
+  <a href="https://github.com/Siddheshwar-cloud/ERC20MintBurn#functions">
     <img src="https://img.shields.io/badge/👑-Ownable-2196F3?style=for-the-badge" alt="Ownable">
   </a>
   
@@ -1171,7 +1181,7 @@ Copyright (c) 2024 Sidheshwar Yengudle
   
   <br>
   
-  <a href="https://github.com/Siddheshwar-cloud/erc20-mintburn#erc20-mintburn-token">
+  <a href="https://github.com/Siddheshwar-cloud/ERC20MintBurn/blob/main/README.md">
     <img src="https://img.shields.io/badge/⬆️_Back_to_Top-100000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
   </a>
   
